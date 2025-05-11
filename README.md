@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/Alteryx-0056A4?style=for-the-badge&logo=dataiku&logoColor=white"/>
 </p>
 
+
+<p align="center">
+  <img src="assets/undraw_data-trends_kv5v.png" width="350" alt="Data Trends"/>
+</p>
+
 ---
 
 ## 🧠 About Me
