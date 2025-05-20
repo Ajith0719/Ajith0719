@@ -63,7 +63,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/pajithraj)
+- 💼 [LinkedIn] https://www.linkedin.com/in/pajithraj/
 - 📧 Email: aperiyas@kent.edu
 
 ---
