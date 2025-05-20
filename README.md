@@ -64,7 +64,6 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](linkedin.com/in/pajithraj)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 📧 Email: aperiyas@kent.edu
 
 ---
