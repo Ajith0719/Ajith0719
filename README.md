@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-🎓 I'm a recent Master's graduate in Business Analytics from Kent State University  
-📊 I love transforming messy data into actionable insights  
-🛠 Skilled in storytelling with data using tools like Tableau, PowerBI, Python, and R  
-🌎 Passionate about making business decisions smarter, faster, and more data-driven  
+Hey! I'm Ajith — I recently completed my Master’s in Business Analytics from Kent State University. My journey into data began with a simple curiosity: Why do people make the decisions they do? Over time, that curiosity turned into a passion for finding patterns in data and turning them into stories that help people see the bigger picture. I get a real kick out of taking messy, chaotic datasets and transforming them into clear insights that actually mean something.
 
+For me, it’s not just about numbers — it’s about helping teams and businesses make smarter, faster decisions through data. That’s what keeps me going.
+
+Thanks for stopping by!
 ---
 
 ## 🔧 Tech Stack
